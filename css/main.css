@@ -1,0 +1,10 @@
+header,footer{
+	height: 100px;
+	background: url(../img/enteros.gif) ;
+	background-size: contain
+}
+.container{
+	margin-top: 10%;
+	margin-bottom: 10%
+	
+}
