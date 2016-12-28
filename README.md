@@ -13,4 +13,5 @@ negative
 	mostrar 1
 - si ambos numeros es positivo entonces
 	mostrar 0
+	
 *Fin*
